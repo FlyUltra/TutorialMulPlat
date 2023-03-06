@@ -1,0 +1,8 @@
+name: TutorialMulPlat
+author: Fly_Ultra
+version: 1.0
+main: cz.flyultra.tutorial.Bungee
+database: false
+
+commands:
+  yourcmd:
