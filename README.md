@@ -51,6 +51,7 @@ File directory like `pom.xml`, but with name `<plugin name>.iml`
     </component>
 </module>
 ```
+</details>
 
 ### Dependencies
 
